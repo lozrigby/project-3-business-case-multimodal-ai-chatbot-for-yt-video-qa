@@ -1,0 +1,14 @@
+streamlit
+yt-dlp
+git+https://github.com/openai/whisper.git
+tiktoken
+openai
+langchain
+langchain-pinecone
+aiofiles
+aiohttp
+pinecone-client
+pydub
+tqdm
+langchain_openai
+langchain-community
