@@ -33,7 +33,7 @@ This project aimed to develop an AI chatbot to help Stanford students efficientl
 1. Source code for the multimodal bot implementation.
 2. Detailed report of the project.
 3. Presentation slides summarizing the project objectives, process, and results.
-4. App folder for deployment (worked well in a virtual environment).
+4. App folder for deployment (worked well in a virtual environment) to be run on Streamlit.
 
 
 ## Conclusion
